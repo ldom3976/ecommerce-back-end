@@ -27,7 +27,7 @@ To install necessary dependencies run `npm install`
 - Run `npm run seed`
 - Run `npm start`
 
-enter video here
+Walkthrough video: https://drive.google.com/file/d/17JNtSUytm3-fCI0Hv7oivN7w-Oq6rS5Q/view
 
 ## Visual Representation
 
